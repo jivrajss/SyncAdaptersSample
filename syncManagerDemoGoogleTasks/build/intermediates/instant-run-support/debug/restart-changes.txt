@@ -1,0 +1,2 @@
+D:\SyncManagerAndroid-DemoGoogleTasks1\syncManagerDemoGoogleTasks\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\rogansoft\tasksdemo\api\GoogleTaskApi.class
+D:\SyncManagerAndroid-DemoGoogleTasks1\syncManagerDemoGoogleTasks\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\rogansoft\tasksdemo\api\GoogleTaskApi$1.class
